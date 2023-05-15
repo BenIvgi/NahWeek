@@ -1,0 +1,6 @@
+DOSBox version 0.74
+Copyright 2002-2010 DOSBox Team, published under GNU GPL.
+---
+CONFIG:Loading primary settings from config file C:\Users\User\AppData\Local\DOSBox\dosbox-0.74.conf
+MIDI:Opened device:win32
+SHELL:Redirect output to C:\Users\User\source\repos\NahWeek\Project1\tasmmsg.txt

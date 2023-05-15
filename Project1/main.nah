@@ -1,0 +1,16 @@
+string: toString(number: value);
+string: input(string: msg);
+number: pow(number: a, number: b);
+number: toPos(number: a);
+void: typeNahl(string: msg);
+void: typeNah(string: msg);
+number: toNumber(string: value);
+void: main()
+{
+	msg = "hello, world!";
+	typeNah(msg);
+	send();
+}
+
+
+

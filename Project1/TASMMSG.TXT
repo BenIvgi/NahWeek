@@ -1,0 +1,57 @@
+ 
+Turbo Assembler  Version 4.1  Copyright (c) 1988, 1996 Borland International
+
+Assembling file:   C:\Users\User\source\repos\NahWeek\Project1\nahweek.ASM  to  nahweek.OBJ
+Error messages:    None
+Warning messages:  None
+Passes:            1
+Remaining memory:  460k
+
+Turbo Assembler  Version 4.1  Copyright (c) 1988, 1996 Borland International
+
+Assembling file:   C:\Users\User\source\repos\NahWeek\Project1\nahweek.ASM  to  nahweek.OBJ
+Error messages:    None
+Warning messages:  None
+Passes:            1
+Remaining memory:  460k
+
+Turbo Assembler  Version 4.1  Copyright (c) 1988, 1996 Borland International
+
+Assembling file:   C:\Users\User\source\repos\NahWeek\Project1\nahweek.ASM  to  nahweek.OBJ
+**Error** C:\Users\User\source\repos\NahWeek\Project1\nahweek.ASM(272) Undefined symbol: MSG
+*Warning* C:\Users\User\source\repos\NahWeek\Project1\nahweek.ASM(272) Pointer expression needs brackets
+**Error** C:\Users\User\source\repos\NahWeek\Project1\nahweek.ASM(273) Undefined symbol: MSG
+*Warning* C:\Users\User\source\repos\NahWeek\Project1\nahweek.ASM(273) Pointer expression needs brackets
+Error messages:    2
+Warning messages:  2
+Passes:            1
+Remaining memory:  460k
+
+Turbo Assembler  Version 4.1  Copyright (c) 1988, 1996 Borland International
+
+Assembling file:   C:\Users\User\source\repos\NahWeek\Project1\nahweek.ASM  to  nahweek.OBJ
+**Error** C:\Users\User\source\repos\NahWeek\Project1\nahweek.ASM(272) Undefined symbol: MSG
+*Warning* C:\Users\User\source\repos\NahWeek\Project1\nahweek.ASM(272) Pointer expression needs brackets
+**Error** C:\Users\User\source\repos\NahWeek\Project1\nahweek.ASM(273) Undefined symbol: MSG
+*Warning* C:\Users\User\source\repos\NahWeek\Project1\nahweek.ASM(273) Pointer expression needs brackets
+Error messages:    2
+Warning messages:  2
+Passes:            1
+Remaining memory:  460k
+
+Turbo Assembler  Version 4.1  Copyright (c) 1988, 1996 Borland International
+
+Assembling file:   C:\Users\User\source\repos\NahWeek\Project1\nahweek.ASM  to  nahweek.OBJ
+Error messages:    None
+Warning messages:  None
+Passes:            1
+Remaining memory:  460k
+
+Turbo Assembler  Version 4.1  Copyright (c) 1988, 1996 Borland International
+
+Assembling file:   C:\Users\User\source\repos\NahWeek\Project1\nahweek.ASM  to  nahweek.OBJ
+Error messages:    None
+Warning messages:  None
+Passes:            1
+Remaining memory:  460k
+
